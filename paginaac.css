@@ -1,0 +1,180 @@
+header{
+    background-color: black;
+    list-style: none;
+    color: white;
+    background-color: black;
+    padding: 40px;
+}
+nav ul li{
+    list-style: none;
+    color: white;
+    background-color: black;
+    margin: -30px;
+    margin-left: 800px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    padding: 2%;
+}
+.carrusel {
+    padding: 24px;
+    margin-inline-start: 300px;
+    margin-inline-end: 300px;
+}
+.bloquedecolor {
+    margin-left: 290px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: -24px;
+}
+.Drive {
+    padding: 40px;    
+    }
+.parrafo2 {
+    text-align: justify;
+    margin-left: 70px;
+}
+.imagencc {
+    margin-top: -400px;
+    margin-left: 665px;
+}
+.dnd {
+    padding: 100px;
+    margin-left: 200px;
+}
+.bloquedecolor2 {
+    margin-left: 530px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: -370px;
+}
+.txtt {
+    padding-top: 30px;
+}
+.txtt2{
+    padding-top: 40px;
+}
+.img22{
+    margin-left: 40px;
+    margin: 100px;
+}
+.img33{
+    margin-top: -378px;
+    margin-left: 780px;
+}
+.primertexto{
+    margin-top: 50px;
+    margin-left: 800px;
+}
+.segundotexto {
+    margin-top: -90px;
+    margin-right: -700px;
+}
+.bloquedecolor3 {
+    margin-left: 800px;
+    margin-top: -50px;
+    color: rgb(0, 0, 0);
+    position: static;  
+}
+.bloquedecolor4 {
+    margin-left: 100px;
+    margin-top: -260px;
+    color: rgb(0, 0, 0);
+}   
+.bloquedecolor5{
+    margin-left: -300px;
+    margin-top: -380px;  
+}
+.imggg{
+    width: 100px;
+    height: 100px;
+    margin-inline-start: 0%;
+}
+.imagencapa {
+    margin-left: -350px;
+    width: 950px;
+    height: 100;
+}
+.imagenlogo{
+    margin-left: -400px;
+    margin-top: -20px;
+    width: 300px;
+    height: 0%;
+}
+.bloquedecolor6 {
+    margin-top: -300px;
+    margin-left: 600px;
+}
+a1{
+padding-left: 1ch;
+}
+a2{
+padding-left: 1ch;
+}
+a3{
+    padding-left: 1ch;
+}
+a4{
+    padding-left: 1ch;
+}
+ .listaderedes {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+ }
+ .imagencapa2 {
+    width: 1900px;
+    height: 100px;
+    margin-left: -900px;
+ }
+ .imagenlogo2{
+    margin-left: -400px;
+    margin-top: -110px;
+    width: 200px;
+    height: 0%;
+}
+.listilla {
+    margin: -85px;
+
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    padding: 2%;
+    
+}
+footer ul li {
+    list-style: none;
+    color: rgb(0, 0, 0);
+}
+.derechos {
+    color: rgb(0, 0, 0);
+    margin-left: -280px;
+    padding-left: 7%;
+}
+
+.bloquedecolor9 {
+    margin-left: -900px;
+    margin-top: -500px;
+}
+.bloquedecolor00{
+    margin-top: 00px;
+}
+a22{
+    padding-left: 5%;
+}
+a33 {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.vein {
+    margin-top: -40px;
+    margin-left: -350px;
+    padding-right: 5%;
+}
